@@ -1,0 +1,167 @@
+tuvrai ski jump
+Author: tuvrai
+Version: 0.95 (alpha)
+Original release date: 15th June 2020
+
+======Special thanks to software testers:========
+KiViX
+
+====LICENSE INFORMATION =======
+License: MIT
+
+The software and is free to use.
+
+Information about additional resources:
+
+* SDL - Simple DirectMedia Layer is a cross-platform development library designed
+to provide low level access to audio, keyboard, mouse, joystick, and graphics
+hardware via OpenGL and Direct3D. It is used by video playback software,
+emulators, and popular games including Valve's award winning catalog
+and many Humble Bundle games.
+Code from:
+https://www.libsdl.org/
+License - zlib
+http://www.zlib.net/zlib_license.html
+
+* SDL_ttf
+This library is a wrapper around the excellent FreeType 2.0 library,
+available at:
+http://www.freetype.org/
+SDL_ttf is available on:
+https://www.libsdl.org/projects/SDL_ttf/
+SDL_ttf:  A companion library to SDL for working with TrueType (tm) fonts
+  Copyright (C) 1997-2019 Sam Lantinga <slouken@libsdl.org>
+License - zlib
+
+*SDL_image
+This is a simple library to load images of various formats as SDL surfaces.
+This library supports BMP, PNM (PPM/PGM/PBM), XPM, LBM, PCX, GIF, JPEG, PNG,
+TGA, TIFF, and simple SVG formats.
+
+This library is under the zlib License, see the file "COPYING.txt" for details.
+
+The latest version of this library is available from:
+http://www.libsdl.org/projects/SDL_image/
+
+*SIL Open Font License
+Copyright (c) 2008-2010, Accademia di Belle Arti di Urbino (www.campivisivi.net|direzione@accademiadiurbino.it),
+with Reserved Font Name Titillium.
+
+
+N: Luca Antonucci
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Paola Bacchiocchi
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Simone Bastianelli
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Valerio Bosi
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Fabio Cecchi
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Giulia Di Grusa
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Donatella Esposito
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Giulia Giordani
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Raffaele Mariotti
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Leslie Ameto
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Elisa Mearelli
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Silvia Mengarelli
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Roberto Mezzano
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Valentina Mingucci
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Andrea Monachesi
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Manuel Pasini
+W: http://www.campivisivi.net
+D: Contributor
+
+N: David Pulga
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Luca Silvestri
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Paolo Tripodi
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Fancesco Zamboni
+W: http://www.campivisivi.net
+D: Contributor
+
+N: Giuliano Chimenti
+W: http://www.isiaurbino.it
+D: Contributor
+
+N: Francesco Piarulli
+W: http://www.isiaurbino.it
+D: Contributor
+
+N: Ivan Abbattista
+W: http://www.isiaurbino.it
+D: Contributor
+
+N: Rita Colacicco
+W: http://www.isiaurbino.it
+D: Contributor
+
+N: Paolo Mazzetti
+W: http://www.scriptype.net
+D: Contributor
+
+N: Claudio Piccinini
+W: http://www.tht.it/
+D: Contributor
+
+N: Luciano Perondi
+E: luciano.perondi@campivisivi.net
+W: http://www.campivisivi.net
+D: Director of progect
+
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+
+
+
+(More to read about it in: fonts/SIL Open Font License.txt)
+

@@ -1,0 +1,7 @@
+arrow left - change angle of the jumper counterclockwise
+arrow right- change angle of the jumper clockwise
+R - restart the jump or go to another person (tournament)
+space - start the jump or take-off
+ESC - escape from menu you are in or process of the game etc.
+PAGE UP - gate up
+PAGE DOWN - gate down

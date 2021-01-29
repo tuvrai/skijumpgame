@@ -1,0 +1,32 @@
+JUMPING
+*First of all, i know the graphics sucks. I'm just a modest programmer, when i get someone who can draw it's gonna get better :)
+
+*There is only one ski jump for now - K115, HS130, based on some finnish hills Kuopio, Lahti.
+There will be more features and ski jumping hills later.
+
+* you can change the gate, so he will have different take off speed and hence the length of the jump will be different ( i didn't calibrated it to be adjusted to the wind in tournament mode yet)
+
+* the wind works in x direction (pushing the jumper back or forward) or y (pushing him downwards or upwards). So the best wind for the player seems to be 45 degree (the arrow indicates the angle) and the worse is 225 degree.
+
+* flying bases on mathematical cosine and sine functions, so there is optimal angle for flying. Try to find it :) Again, those mechanics can be changed in future, that's alpha version for now.
+
+* there is no landing yet, you just try to fall as far as possible and the jumper is going to stay up.
+
+* there are no jury notes either for now and hence no points as well - the distance is the only crucial thing for now.
+
+* The environment is still not very detailed (no fans, flags, jury places etc.). That's going to change in future i guess.
+
+* After the jump, click R to reset so you repeat the jump (training) or it will take you to another player's turn.
+
+PLAYER MANAGING
+* player name can only consist letters and digits.
+* there is a maximum amount of players to be chosen in tournament to 15 now (it will surely change in the future)
+* when choosing players to tournament, enter them separating them by comma.
+* in the tournament every jumper has only one jump (you can choose the same jumper a few times tho)
+this is going to be surely changed in the future, i mean it's alpha for now, don't judge - someday i am going to have more time for it.
+* after the tournament there will be a winner announced (standings and other shit - again later...)
+*to delete a player(s) you need to do this directly in the proper textfile (data/jumpers/jumperlist.txt) - no delete in app level yet.
+
+Just have fun and contact me if you have any suggestions or you find some bloody bugs :)
+We can develop it to be better together!
+(there will be place for you in the beta testers section in credits of course)
