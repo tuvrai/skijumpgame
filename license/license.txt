@@ -5,6 +5,7 @@ Original release date: 15th June 2020
 
 ======Special thanks to software testers:========
 KiViX
+Czybisty
 
 ====LICENSE INFORMATION =======
 License: MIT
